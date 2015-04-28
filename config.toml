@@ -1,3 +1,6 @@
 baseurl = "http://wandering.space/"
 languageCode = "fr"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
 title = "Wandering In Spaces and In-Between"
