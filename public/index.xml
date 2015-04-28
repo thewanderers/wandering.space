@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on Wandering In Spaces and In-Between </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/</link>
+    <title>Wandering In Spaces and In-Between</title>
+    <link>http://wandering.space/</link>
+    <description>Recent content on Wandering In Spaces and In-Between</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    
-    
-    <updated>Mon, 27 Apr 2015 21:01:25 PDT</updated>
+    <lastBuildDate>Mon, 27 Apr 2015 21:01:25 -0700</lastBuildDate>
+    <atom:link href="http://wandering.space/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 27 Apr 2015 21:01:25 PDT</pubDate>
+      <link>http://wandering.space/about/</link>
+      <pubDate>Mon, 27 Apr 2015 21:01:25 -0700</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
-      <description>This is the about page.</description>
+      <guid>http://wandering.space/about/</guid>
+      <description>&lt;p&gt;This is the about page.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>welcome</title>
-      <link>http://localhost:1313/post/welcome/</link>
-      <pubDate>Mon, 27 Apr 2015 21:01:20 PDT</pubDate>
+      <link>http://wandering.space/post/welcome/</link>
+      <pubDate>Mon, 27 Apr 2015 21:01:20 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/welcome/</guid>
-      <description>Coming soon</description>
+      <guid>http://wandering.space/post/welcome/</guid>
+      <description>&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
     </item>
     
   </channel>
 </rss>
-
