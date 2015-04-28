@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Wandering In Spaces and In-Between</title>
+      <title>Posts on Wandering In Spaces and In-Between </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://wandering.space/post/</link>
-    <description>Recent content in Posts on Wandering In Spaces and In-Between</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 27 Apr 2015 21:01:20 -0700</lastBuildDate>
-    <atom:link href="http://wandering.space/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <updated>Mon, 27 Apr 2015 21:01:20 PDT</updated>
     
     <item>
       <title>welcome</title>
       <link>http://wandering.space/post/welcome/</link>
-      <pubDate>Mon, 27 Apr 2015 21:01:20 -0700</pubDate>
+      <pubDate>Mon, 27 Apr 2015 21:01:20 PDT</pubDate>
       
       <guid>http://wandering.space/post/welcome/</guid>
-      <description>&lt;p&gt;Coming soon&lt;/p&gt;
-</description>
+      <description>Coming soon</description>
     </item>
     
   </channel>
 </rss>
+
