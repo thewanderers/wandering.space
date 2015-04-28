@@ -1,0 +1,3 @@
+# wandering.space
+
+Uses hugo
